@@ -10,7 +10,6 @@ But to know me better, check out my <a href="https://www.linkedin.com/in/emir-cr
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <a href="https://icons8.com/icon/MWiBjkuHeMVq/next.js"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -21,7 +20,6 @@ But to know me better, check out my <a href="https://www.linkedin.com/in/emir-cr
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
-    <a href="https://aws.amazon.com/es/" target="_blank"> <img src="https://icons8.com/icon/33039/amazon-web-services?size=48&id=js8pNS2UtYKY&format=png"/></a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=zdI5E8moxhs-&format=png"/></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=74402&format=png"/></a>
