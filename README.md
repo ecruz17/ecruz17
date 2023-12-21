@@ -10,7 +10,7 @@ But to know me better, check out my <a href="https://www.linkedin.com/in/emir-cr
 
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://icons8.com/icon/MWiBjkuHeMVq/next.js"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <a href="https://icons8.com/icon/MWiBjkuHeMVq/next.js"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
