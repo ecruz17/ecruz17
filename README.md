@@ -2,7 +2,7 @@
 
 <h3> Emir Cruz Maldonado <h3/>
 
-#### Mobile Application Developer at FreeWay | Front End Developer | Software Engineer student.
+#### Front End Developer at <a href="https://mxmartsolutions.com/">MxMart</a>.
 
 But to know me better, check out my <a href="https://www.linkedin.com/in/emir-cruz-dev/">LinkedIn Profile<a/> 👀
 
