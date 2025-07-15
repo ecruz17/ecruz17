@@ -2,7 +2,7 @@
 
 <h3> Emir Cruz Maldonado <h3/>
 
-#### Software Engineer at <a href="https://mxmartsolutions.com/">MxMart</a>.
+#### Fullstack | Cloud | AI | Software Engineer
 
 But to know me better, check out my <a href="https://www.linkedin.com/in/emir-cruz-dev/">LinkedIn Profile<a/> 👀
 
