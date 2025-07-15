@@ -17,7 +17,7 @@ But to know me better, check out my <a href="https://www.linkedin.com/in/emir-cr
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=7AFcZ2zirX6Y&format=png"/> </a>
-    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png"/> </a>¿
+    <a href="https://nodejs.org/en" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
